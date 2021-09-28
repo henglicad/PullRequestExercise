@@ -1,6 +1,6 @@
 public class BadCode {
 
-  // Print the average and the sum of an array of integers
+  // Print the average and the sum of an array of integers 
   private int PRINTsumandAVERAGE(int x[]) {
     int sum;
     int average;
